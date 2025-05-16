@@ -5,8 +5,8 @@ indirdikten sonra export package:
 
 Dosyalarda Prefabs/Endless Sections kısmında "Base PF" ile base sectionu "CTRL+D" ile "klonla" ve o klonlanmış olanın üstünde işlemler yap.<br>
 Son üretilen prefabı , hiyerarşide Main Cameraya gelip "Endless Level Handler" scriptinde de element oluşturup üstüne at ( + tıkla ekle oraya) <br>
-yine söylüyorum , section oluştururken ctrl + d ile base section üzerinden oluştur, istersen base sectionu değiştir ama bütün sectionlarda Endless Section Handler olmalı. <br>
-
+yine söylüyorum , section oluştururken ctrl + d ile base section üzerinden oluştur, istersen base sectionu değiştir ama bütün sectionlarda "Endless Section Handler" scripti olmalı. <br>
+İstersen çok başka şeyler ekleyebilirsin. Engeller vs vs. <br>
 
 
 ## SAKIN BASMAAAA 
